@@ -1,0 +1,11 @@
+.card-scroll {
+    height: 400px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.team-scroll {
+    height: 800px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
